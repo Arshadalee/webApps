@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "king",
+      "email": "king@gmail.com",
+      "DOJ": "Feb-23"
+    },
+    {
+      "name": "arsh",
+      "email": "arshmulla@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "sham",
+      "email": "sham1@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "ali",
+      "email": "ali@infosys.com",
+      "DOJ": "2023-08-16",
+      "id": 6
+    },
+    {
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "DOJ": "2023-08-08",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "DOJ": "",
+      "id": 8
+    }
+  ]
+}
